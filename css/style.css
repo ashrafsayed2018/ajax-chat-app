@@ -1,0 +1,9 @@
+.ui-dialog-titlebar  {
+    background: #999898;
+    color: #fff;
+}
+.ui-dialog-titlebar-close {
+    position: absolute;
+    right:10px;
+    color:red
+}
